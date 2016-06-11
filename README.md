@@ -1,0 +1,3 @@
+```sh
+  ruby usage.rb
+```
